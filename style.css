@@ -1,0 +1,96 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.orange-colour {
+    color: orange;
+}
+
+.flexable-container {
+    display: flex;
+    padding-bottom: 70px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10%;
+}
+
+.for-text {
+    padding-top: 50px;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700px;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+
+.second-banner {
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+
+.second-text {
+    padding-top: 100px;
+}
+
+.my-rec {
+    text-align: center;
+}
+
+.para-text {
+    text-align: center;
+}
+
+.experiences-item {
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.subscriber {
+    width: 80%;
+    margin-left: 8%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.youtube {
+    width: 50%;
+    margin-left: 10%;
+}
+
+#red {
+    color: red;
+}
+
+.foot {
+    text-align: center;
+
+    background-color: gray;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+
+}
+
+.img-food {
+    width: 100%;
+}
